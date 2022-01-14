@@ -1,2 +1,1 @@
-# FitZey
-# Fitness website using HTML5 & CSS3
+Fitness Website using  HTML5 & CSS3
